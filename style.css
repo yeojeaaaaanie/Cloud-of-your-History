@@ -1,0 +1,36 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow: hidden;
+}
+
+/* #url_div {
+  height: 100%;
+  width: 30%;
+  left: 0;
+  display: block;
+  border: solid black;
+  overflow: scroll;
+  float: left;
+}
+
+#url_div ul {
+  list-style-type: none;
+  padding: 5px;
+  white-space: normal;
+  word-wrap: break-word;
+  font-size: 1.2vmin;
+} */
+
+#word-cloud {
+  height: 90%;
+  width: 100%;
+  margin: auto auto;
+  right: 0;
+  /* border: solid red; */
+  float: right;
+  overflow: hidden;
+  top: 0;
+}
